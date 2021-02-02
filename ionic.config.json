@@ -1,0 +1,7 @@
+{
+  "name": "ionic5-capacitor-electron-2021",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
