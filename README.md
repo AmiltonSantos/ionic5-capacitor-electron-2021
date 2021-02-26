@@ -50,5 +50,5 @@ $ npx cap open electron
 ```
 
 - Verificar se tem o ponto no arquivo src / index.html
-- Na linha ----->  <base href="./" />
+- Na linha ----->  "<base href="./" />"
 
