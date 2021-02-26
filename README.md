@@ -9,7 +9,7 @@
 Iniciando meus estudos com Ionic5 + Angular + Capacitor + Electronjs - Desktop -- Fevereiro de 2021
 
 
-## Instação:
+### Instação:
 ```bash
 $ sudo npm install -g ionic
 ```
@@ -42,3 +42,13 @@ $ ionic build
 $ npx cap add electron
 $ npx cap open electron
 ```
+
+### Quando for mundando o codigo e precisar buildar novamente
+```bash
+$ ionic build && npx cap copy
+$ npx cap open electron
+```
+
+- Verificar se tem o ponto no arquivo src / index.html
+- Na linha ----->  <base href="./" />
+
