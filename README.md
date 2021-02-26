@@ -9,7 +9,9 @@
 Iniciando meus estudos com Ionic5 + Angular + Capacitor + Electronjs - Desktop -- Fevereiro de 2021
 
 
-### Instação:
+### Instalar o NodeJs e Ionic :
+- [NODEJS](https://nodejs.org/en/)
+
 ```bash
 $ sudo npm install -g ionic
 ```
