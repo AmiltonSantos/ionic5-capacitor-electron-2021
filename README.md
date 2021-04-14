@@ -10,7 +10,7 @@ Iniciando meus estudos com Ionic5 + Angular + Capacitor + Electronjs - Desktop -
 
 
 ### Instalar o NodeJs e Ionic :
-- [NODEJS](https://nodejs.org/en/)
+-Instalar o [NODEJS](https://nodejs.org/en/) 
 
 ```bash
 $ sudo npm install -g ionic
@@ -35,6 +35,7 @@ $ npm install electron-packager --save-dev
 
 ### Atualizar o Angular pra uma versão mas recente
 ```bash
+$ sudo npm install -g @angular/cli
 $ ng update @angular/cli @angular/core --allow-dirty
 ```
 
