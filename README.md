@@ -9,17 +9,18 @@
 Iniciando meus estudos com Ionic5 + Angular + Capacitor + Electronjs - Desktop -- Fevereiro de 2021
 
 
-### Instalar o NodeJs e Ionic :
--Instalar o [NODEJS](https://nodejs.org/en/) 
+### Instalar o NodeJs:
+-Instalar o NODEJS [https://nodejs.org/en/](https://nodejs.org/en/) 
 
+### Instalar o Ionic:
 ```bash
 $ sudo npm install -g ionic
 ```
 
-### Clone o repositório
+### Clone o repositório:
 ```bash
-$ git clone https://github.com/AmiltonSantos/ionic5-capacitor-electron-2021.git
-$ cd ionic5-capacitor-electron-2021
+$ git clone https://github.com/AmiltonSantos/nubank-com-ionic5.git
+$ cd nubank-com-ionic5
 ```
 
 ### Install node modules:
